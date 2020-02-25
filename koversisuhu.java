@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class hari1{
+public class konversisuhu{
     static double fk(double suhu){
       return (suhu-32)*5/9+273.15;
     }
